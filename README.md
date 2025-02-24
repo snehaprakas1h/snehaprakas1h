@@ -18,7 +18,7 @@ Here are some of my notable projects:
 
 - [**Leetcode SQL Top 50**](https://github.com/snehaprakas1h/LeetcodeSQLTOP50) – A collection of the top 50 SQL problems from Leetcode with optimized solutions and explanations.  
 
-- [**Cypress**](https://github.com/snehaprakas1h/Cypress) – A comprehensive Cypress framework covering UI testing, API testing, DB integration, and GitHub Actions.  
+- [**Cypress**](https://github.com/snehaprakas1h/CypressFramework) – A comprehensive Cypress framework covering UI testing, API testing, DB integration, and GitHub Actions.  
 
 - [**JSCodingQuestionsPracticeBasic**](https://github.com/snehaprakas1h/JSCodingQuestionsPracticeBasic) – A collection of JavaScript coding questions, focusing on problem-solving techniques for strings, arrays, and more.  
 
